@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = ReadFileByAllLines
+build_property.ProjectDir = C:\Day27\ReadFileByAllLines\

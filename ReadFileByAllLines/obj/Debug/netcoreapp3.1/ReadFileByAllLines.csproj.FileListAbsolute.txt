@@ -1,0 +1,14 @@
+C:\Day27\ReadFileByAllLines\bin\Debug\netcoreapp3.1\ReadFileByAllLines.exe
+C:\Day27\ReadFileByAllLines\bin\Debug\netcoreapp3.1\ReadFileByAllLines.deps.json
+C:\Day27\ReadFileByAllLines\bin\Debug\netcoreapp3.1\ReadFileByAllLines.runtimeconfig.json
+C:\Day27\ReadFileByAllLines\bin\Debug\netcoreapp3.1\ReadFileByAllLines.runtimeconfig.dev.json
+C:\Day27\ReadFileByAllLines\bin\Debug\netcoreapp3.1\ReadFileByAllLines.dll
+C:\Day27\ReadFileByAllLines\bin\Debug\netcoreapp3.1\ReadFileByAllLines.pdb
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.csproj.AssemblyReference.cache
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.AssemblyInfoInputs.cache
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.AssemblyInfo.cs
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.csproj.CoreCompileInputs.cache
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.dll
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.pdb
+C:\Day27\ReadFileByAllLines\obj\Debug\netcoreapp3.1\ReadFileByAllLines.genruntimeconfig.cache
