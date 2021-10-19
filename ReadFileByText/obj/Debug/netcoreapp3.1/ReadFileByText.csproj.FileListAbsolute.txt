@@ -1,0 +1,14 @@
+C:\Day27\ReadFileByText\bin\Debug\netcoreapp3.1\ReadFileByText.exe
+C:\Day27\ReadFileByText\bin\Debug\netcoreapp3.1\ReadFileByText.deps.json
+C:\Day27\ReadFileByText\bin\Debug\netcoreapp3.1\ReadFileByText.runtimeconfig.json
+C:\Day27\ReadFileByText\bin\Debug\netcoreapp3.1\ReadFileByText.runtimeconfig.dev.json
+C:\Day27\ReadFileByText\bin\Debug\netcoreapp3.1\ReadFileByText.dll
+C:\Day27\ReadFileByText\bin\Debug\netcoreapp3.1\ReadFileByText.pdb
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.csproj.AssemblyReference.cache
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.AssemblyInfoInputs.cache
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.AssemblyInfo.cs
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.csproj.CoreCompileInputs.cache
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.dll
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.pdb
+C:\Day27\ReadFileByText\obj\Debug\netcoreapp3.1\ReadFileByText.genruntimeconfig.cache
