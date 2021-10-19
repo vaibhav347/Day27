@@ -1,0 +1,14 @@
+C:\Day27\StreamReader\bin\Debug\netcoreapp3.1\StreamReader.exe
+C:\Day27\StreamReader\bin\Debug\netcoreapp3.1\StreamReader.deps.json
+C:\Day27\StreamReader\bin\Debug\netcoreapp3.1\StreamReader.runtimeconfig.json
+C:\Day27\StreamReader\bin\Debug\netcoreapp3.1\StreamReader.runtimeconfig.dev.json
+C:\Day27\StreamReader\bin\Debug\netcoreapp3.1\StreamReader.dll
+C:\Day27\StreamReader\bin\Debug\netcoreapp3.1\StreamReader.pdb
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.csproj.AssemblyReference.cache
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.AssemblyInfoInputs.cache
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.AssemblyInfo.cs
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.csproj.CoreCompileInputs.cache
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.dll
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.pdb
+C:\Day27\StreamReader\obj\Debug\netcoreapp3.1\StreamReader.genruntimeconfig.cache
