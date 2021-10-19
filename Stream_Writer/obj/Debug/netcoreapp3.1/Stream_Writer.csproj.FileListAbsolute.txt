@@ -1,0 +1,13 @@
+C:\Day27\Stream_Writer\bin\Debug\netcoreapp3.1\Stream_Writer.exe
+C:\Day27\Stream_Writer\bin\Debug\netcoreapp3.1\Stream_Writer.deps.json
+C:\Day27\Stream_Writer\bin\Debug\netcoreapp3.1\Stream_Writer.runtimeconfig.json
+C:\Day27\Stream_Writer\bin\Debug\netcoreapp3.1\Stream_Writer.runtimeconfig.dev.json
+C:\Day27\Stream_Writer\bin\Debug\netcoreapp3.1\Stream_Writer.dll
+C:\Day27\Stream_Writer\bin\Debug\netcoreapp3.1\Stream_Writer.pdb
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.AssemblyInfoInputs.cache
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.AssemblyInfo.cs
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.csproj.CoreCompileInputs.cache
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.dll
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.pdb
+C:\Day27\Stream_Writer\obj\Debug\netcoreapp3.1\Stream_Writer.genruntimeconfig.cache
