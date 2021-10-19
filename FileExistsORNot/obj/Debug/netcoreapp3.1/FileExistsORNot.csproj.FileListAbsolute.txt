@@ -1,0 +1,14 @@
+C:\Day27\FileExistsORNot\bin\Debug\netcoreapp3.1\FileExistsORNot.exe
+C:\Day27\FileExistsORNot\bin\Debug\netcoreapp3.1\FileExistsORNot.deps.json
+C:\Day27\FileExistsORNot\bin\Debug\netcoreapp3.1\FileExistsORNot.runtimeconfig.json
+C:\Day27\FileExistsORNot\bin\Debug\netcoreapp3.1\FileExistsORNot.runtimeconfig.dev.json
+C:\Day27\FileExistsORNot\bin\Debug\netcoreapp3.1\FileExistsORNot.dll
+C:\Day27\FileExistsORNot\bin\Debug\netcoreapp3.1\FileExistsORNot.pdb
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.csproj.AssemblyReference.cache
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.AssemblyInfoInputs.cache
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.AssemblyInfo.cs
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.csproj.CoreCompileInputs.cache
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.dll
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.pdb
+C:\Day27\FileExistsORNot\obj\Debug\netcoreapp3.1\FileExistsORNot.genruntimeconfig.cache
