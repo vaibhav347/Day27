@@ -1,0 +1,13 @@
+C:\Day27\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.exe
+C:\Day27\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.deps.json
+C:\Day27\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.runtimeconfig.json
+C:\Day27\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.runtimeconfig.dev.json
+C:\Day27\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.dll
+C:\Day27\MoveFile\bin\Debug\netcoreapp3.1\MoveFile.pdb
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.AssemblyInfoInputs.cache
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.AssemblyInfo.cs
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.csproj.CoreCompileInputs.cache
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.dll
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.pdb
+C:\Day27\MoveFile\obj\Debug\netcoreapp3.1\MoveFile.genruntimeconfig.cache
